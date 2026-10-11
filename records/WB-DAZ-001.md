@@ -24,7 +24,7 @@ This investigation occurred during active LOTG Worlds character-animation work. 
 
 ## Question
 
-Why could the tested ChatGPT–Daz Studio pipeline perform bounded generative scripting reliably with Genesis 8, yet begin exhibiting drift during a more state-dense Genesis 8.1 workflow?
+Why could the tested ChatGPT–Daz Studio pipeline perform the scripting and animation tasks tested reliably with Genesis 8, yet begin exhibiting drift during a more state-dense Genesis 8.1 workflow?
 
 ## Operating Relationship
 
@@ -38,7 +38,7 @@ The public finding does not document the complete private bridge implementation.
 
 ## Initial Baseline
 
-Bounded Genesis 8 character manipulation was successfully performed from Chat through the established local tool path.
+The Genesis 8 scripting and animation tasks tested were successfully performed from Chat through the established local tool path.
 
 Observed successful operations included character-state changes and iterative scripting/tool execution without significant behavioral drift.
 
@@ -201,7 +201,7 @@ The same underlying model may therefore remain capable of a task while the envir
 
 **Genesis 8.1 in Chat without a video reference.**
 
-The purpose is to determine whether bounded Genesis 8.1 work can remain stable in Chat when the visual-reference reconstruction layer is removed, or whether Genesis 8.1 still produces enough operational complexity in this workflow that Work should become the default environment.
+The purpose is to determine whether Genesis 8.1 scripting and animation tasks can remain stable in Chat when the visual-reference reconstruction layer is removed, or whether Genesis 8.1 still produces enough operational complexity in this workflow that Work should become the default environment.
 
 This test has not yet been reported as completed. Its result can later support a more formal LOTG Labs standard operating procedure for Genesis 8.1 work.
 
