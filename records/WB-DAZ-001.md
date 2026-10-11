@@ -24,7 +24,7 @@ This investigation occurred during active LOTG Worlds character-animation work. 
 
 ## Question
 
-Why could the tested ChatGPT–Daz Studio pipeline perform the scripting and animation tasks tested reliably with Genesis 8, yet begin exhibiting drift during a more state-dense Genesis 8.1 workflow?
+Why could the tested ChatGPT–Daz Studio pipeline perform the tested scripting and animation tasks reliably with Genesis 8, yet begin exhibiting drift during a more state-dense Genesis 8.1 workflow?
 
 ## Operating Relationship
 
